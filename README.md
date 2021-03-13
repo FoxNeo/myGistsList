@@ -3,6 +3,7 @@
 These are some of the gists that I have posted. This list will be updated to have all my gists organized. have fun
 
 ## Contents
+- [Random MAC address Linux](https://gist.github.com/FoxNeo/9822a2076b0c12db79fc8baacf4bf6e3)
 - [Eclipse OneDark syntax highlighting](https://gist.github.com/FoxNeo/32d3b04f2b4e1bd81cfc73d62ad98534)
 - [Emojis](https://gist.github.com/FoxNeo/fa94fd33e2fa5a4d203573b6f46434ea)
 - [Free Wallpapers](https://gist.github.com/FoxNeo/60b8e0b17c0c872f52975b190e2e5568)
