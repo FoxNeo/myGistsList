@@ -15,6 +15,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [README template](https://gist.github.com/FoxNeo/cf7944bdb939ed420b48c6e85e67c738)
 - [VS Code format shortcut](https://gist.github.com/FoxNeo/6aeda43112ce1a95dceea17c2ca2409d)
 - [SCP](https://gist.github.com/FoxNeo/4fd0f06ef61aea1cdadb0fc1688d3bbf)
+- [Show open ports Linux](https://gist.github.com/FoxNeo/02e5b2adb1e55a064aa8d015c692a422)
 
 ## License
 
