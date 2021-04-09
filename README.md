@@ -17,6 +17,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [VS Code format shortcut](https://gist.github.com/FoxNeo/6aeda43112ce1a95dceea17c2ca2409d)
 - [SCP](https://gist.github.com/FoxNeo/4fd0f06ef61aea1cdadb0fc1688d3bbf)
 - [Show open ports Linux](https://gist.github.com/FoxNeo/02e5b2adb1e55a064aa8d015c692a422)
+- [Tomcat TLS with pem files](https://gist.github.com/FoxNeo/11ec83c7107e7c3a4bcd45e53d6f894b)
 
 ## License
 
