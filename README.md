@@ -4,7 +4,6 @@ These are some of the gists that I have posted. This list will be updated to hav
 
 ## Contents
 - [Best openSource database tool multiplatform](https://gist.github.com/FoxNeo/813d503afc6f7ff8e3e59627eea65c1c)
-- [Random MAC address Linux](https://gist.github.com/FoxNeo/9822a2076b0c12db79fc8baacf4bf6e3)
 - [Eclipse OneDark syntax highlighting](https://gist.github.com/FoxNeo/32d3b04f2b4e1bd81cfc73d62ad98534)
 - [Emojis](https://gist.github.com/FoxNeo/fa94fd33e2fa5a4d203573b6f46434ea)
 - [Encrypt files with openssl](https://gist.github.com/FoxNeo/279bd3d4cf83ccf30602e6cd1b5a5ca4)
@@ -17,6 +16,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Notes English, Markdown editor](https://gist.github.com/FoxNeo/863395bba1830a799e6bc33668da1e86)
 - [Local Network scanner](https://gist.github.com/FoxNeo/b61fb2f2787a87309a65a8dcc571eeb6)
 - [README template](https://gist.github.com/FoxNeo/cf7944bdb939ed420b48c6e85e67c738)
+- [Random MAC address Linux](https://gist.github.com/FoxNeo/9822a2076b0c12db79fc8baacf4bf6e3)
 - [VS Code format shortcut](https://gist.github.com/FoxNeo/6aeda43112ce1a95dceea17c2ca2409d)
 - [SCP](https://gist.github.com/FoxNeo/4fd0f06ef61aea1cdadb0fc1688d3bbf)
 - [Show open ports Linux](https://gist.github.com/FoxNeo/02e5b2adb1e55a064aa8d015c692a422)
