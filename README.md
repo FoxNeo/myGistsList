@@ -12,6 +12,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Identified technologies Web Plugin](https://gist.github.com/FoxNeo/e8c6dae4ec70ab7fe2022aef44748d1e)
 - [Javadoc sample template](https://gist.github.com/FoxNeo/a3b66adecc02a39db3061dec6330bbdf)
 - [Manjaro + VirtualBox Bug Fix](https://gist.github.com/FoxNeo/b85cfdb68286e635735aeb9d221ec148)
+- [Monitor network traffic with tcpdump](https://gist.github.com/FoxNeo/29cba7fefdbffb71f11491b268ecd14c)
 - [Firefox Developer Edition install guide](https://gist.github.com/FoxNeo/f9840a5655939156fab094575e73710d)
 - [Notes English, Markdown editor](https://gist.github.com/FoxNeo/863395bba1830a799e6bc33668da1e86)
 - [Local Network scanner](https://gist.github.com/FoxNeo/b61fb2f2787a87309a65a8dcc571eeb6)
