@@ -22,6 +22,8 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [SCP](https://gist.github.com/FoxNeo/4fd0f06ef61aea1cdadb0fc1688d3bbf)
 - [Show open ports Linux](https://gist.github.com/FoxNeo/02e5b2adb1e55a064aa8d015c692a422)
 - [SSH change folder to store keys](https://gist.github.com/FoxNeo/fde5bc0e9964cc006add8dfcd9e6e6b7)
+- [SSH import public keys](https://gist.github.com/FoxNeo/5e213455d3a6bd1889be17bc7c15cf80)
+- [SSH store profile connections](https://gist.github.com/FoxNeo/cdd87743c06e54df99427d6e4d45a87b)
 - [Tomcat TLS with pem files](https://gist.github.com/FoxNeo/11ec83c7107e7c3a4bcd45e53d6f894b)
 - [Web IDE codepen.io](https://gist.github.com/FoxNeo/5a6ab979ae6fec981902cf70f37b0c28)
 
