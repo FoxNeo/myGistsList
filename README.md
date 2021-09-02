@@ -8,6 +8,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Emojis](https://gist.github.com/FoxNeo/fa94fd33e2fa5a4d203573b6f46434ea)
 - [Encrypt files with openssl](https://gist.github.com/FoxNeo/279bd3d4cf83ccf30602e6cd1b5a5ca4)
 - [Free Wallpapers](https://gist.github.com/FoxNeo/60b8e0b17c0c872f52975b190e2e5568)
+- [Fire-Fly-III docker-compose.yml](https://gist.github.com/FoxNeo/c4c9e7e7a2905e5fdcd000bce4fda938)
 - [gpg commands](https://gist.github.com/FoxNeo/f1bc08c6a590c4cbf2ee7f214b84f2f8)
 - [Identified technologies Web Plugin](https://gist.github.com/FoxNeo/e8c6dae4ec70ab7fe2022aef44748d1e)
 - [Javadoc sample template](https://gist.github.com/FoxNeo/a3b66adecc02a39db3061dec6330bbdf)
