@@ -13,7 +13,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Format SSD correct with blkdiscard](https://gist.github.com/FoxNeo/ffe8e8271ec935db48cbb15eb244c4aa)
 - [gpg commands](https://gist.github.com/FoxNeo/f1bc08c6a590c4cbf2ee7f214b84f2f8)
 - [Identified technologies Web Plugin](https://gist.github.com/FoxNeo/e8c6dae4ec70ab7fe2022aef44748d1e)
-- [IntelliJ IDE shortcuts JAVA](https://gist.github.com/FoxNeo/0db003b2045e130cc59b1bb3315dd89e)
+- [IntelliJ IDEA shortcuts JAVA](https://gist.github.com/FoxNeo/0db003b2045e130cc59b1bb3315dd89e)
 - [Javadoc sample template](https://gist.github.com/FoxNeo/a3b66adecc02a39db3061dec6330bbdf)
 - [Manjaro + VirtualBox Bug Fix](https://gist.github.com/FoxNeo/b85cfdb68286e635735aeb9d221ec148)
 - [Monitor network traffic with tcpdump](https://gist.github.com/FoxNeo/29cba7fefdbffb71f11491b268ecd14c)
