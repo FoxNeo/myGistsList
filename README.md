@@ -26,6 +26,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [VS Code format shortcut](https://gist.github.com/FoxNeo/6aeda43112ce1a95dceea17c2ca2409d)
 - [SCP](https://gist.github.com/FoxNeo/4fd0f06ef61aea1cdadb0fc1688d3bbf)
 - [Show open ports Linux](https://gist.github.com/FoxNeo/02e5b2adb1e55a064aa8d015c692a422)
+- [SSH-keygen](https://gist.github.com/FoxNeo/13203a91efe6d570f8a9dd2096c159b0)
 - [SSH change folder to store keys](https://gist.github.com/FoxNeo/fde5bc0e9964cc006add8dfcd9e6e6b7)
 - [SSH import public keys](https://gist.github.com/FoxNeo/5e213455d3a6bd1889be17bc7c15cf80)
 - [Show all shells avaible on the system](https://gist.github.com/FoxNeo/676cd61542c73ed7b868f5729b616978)
