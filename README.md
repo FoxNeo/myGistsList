@@ -11,6 +11,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Fire-Fly-III docker-compose.yml](https://gist.github.com/FoxNeo/c4c9e7e7a2905e5fdcd000bce4fda938)
 - [Firefox Developer Edition install guide](https://gist.github.com/FoxNeo/f9840a5655939156fab094575e73710d)
 - [Format SSD correct with blkdiscard](https://gist.github.com/FoxNeo/ffe8e8271ec935db48cbb15eb244c4aa)
+- [git commands](https://gist.github.com/FoxNeo/27bf0e84b34ebddb2eea31d46eeb03ed)
 - [gpg commands](https://gist.github.com/FoxNeo/f1bc08c6a590c4cbf2ee7f214b84f2f8)
 - [Identified technologies Web Plugin](https://gist.github.com/FoxNeo/e8c6dae4ec70ab7fe2022aef44748d1e)
 - [IntelliJ IDEA shortcuts JAVA](https://gist.github.com/FoxNeo/0db003b2045e130cc59b1bb3315dd89e)
