@@ -19,6 +19,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [Manjaro + VirtualBox Bug Fix](https://gist.github.com/FoxNeo/b85cfdb68286e635735aeb9d221ec148)
 - [Monitor network traffic with tcpdump](https://gist.github.com/FoxNeo/29cba7fefdbffb71f11491b268ecd14c)
 - [Notes English, Markdown editor](https://gist.github.com/FoxNeo/863395bba1830a799e6bc33668da1e86)
+- [nginx commands - info](https://gist.github.com/FoxNeo/edaad943bf4ebd2e3b598d34e86cf583)
 - [Local Network scanner](https://gist.github.com/FoxNeo/b61fb2f2787a87309a65a8dcc571eeb6)
 - [PDFsam edit PDF](https://gist.github.com/FoxNeo/16c38209e69bf17e74231d1754d0ed5f)
 - [Poll alternative to doodle](https://poll.snopyta.org/)
