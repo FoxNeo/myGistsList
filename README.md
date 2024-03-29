@@ -17,6 +17,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [IntelliJ IDEA shortcuts JAVA](https://gist.github.com/FoxNeo/0db003b2045e130cc59b1bb3315dd89e)
 - [Javadoc sample template](https://gist.github.com/FoxNeo/a3b66adecc02a39db3061dec6330bbdf)
 - [Manjaro + VirtualBox Bug Fix](https://gist.github.com/FoxNeo/b85cfdb68286e635735aeb9d221ec148)
+- [Maven mvn commands](https://gist.github.com/FoxNeo/06614c333350f972b388b817cdbad8c2)
 - [Monitor network traffic with tcpdump](https://gist.github.com/FoxNeo/29cba7fefdbffb71f11491b268ecd14c)
 - [Notes English, Markdown editor](https://gist.github.com/FoxNeo/863395bba1830a799e6bc33668da1e86)
 - [nginx commands - info](https://gist.github.com/FoxNeo/edaad943bf4ebd2e3b598d34e86cf583)
