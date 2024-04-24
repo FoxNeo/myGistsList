@@ -35,6 +35,7 @@ These are some of the gists that I have posted. This list will be updated to hav
 - [SSH import public keys](https://gist.github.com/FoxNeo/5e213455d3a6bd1889be17bc7c15cf80)
 - [Show all shells avaible on the system](https://gist.github.com/FoxNeo/676cd61542c73ed7b868f5729b616978)
 - [SSH store profile connections](https://gist.github.com/FoxNeo/cdd87743c06e54df99427d6e4d45a87b)
+- [Spring Boot retmote Debug jar file](https://gist.github.com/FoxNeo/4a4a19b091f391b98645954c395d4cfd)
 - [Tomcat TLS with pem files](https://gist.github.com/FoxNeo/11ec83c7107e7c3a4bcd45e53d6f894b)
 - [TypeScript from Terminal](https://gist.github.com/FoxNeo/f7a7420a756d2e61563296eafad441e6)
 - [Web IDE codepen.io](https://gist.github.com/FoxNeo/5a6ab979ae6fec981902cf70f37b0c28)
